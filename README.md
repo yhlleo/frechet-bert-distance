@@ -27,7 +27,7 @@ python eval_metric.py \
 Here are some details of the six corpura compared in the main paper:
 
 |File Name|Dataset Name|Num. of Samples|Reference|
-|:-----:|:-----:|:-----:|
+|:-----:|:-----:|:-----:|:----:|
 |[`personam_annotation.json`](./datasets/personam_annotation.json)|Persona(M)|60|[Shikib/usr](http://shikib.com/usr)|
 |[`dailyh_annotation.json`](./datasets/dailyh_annotation.json)|Daily(H)|150|[li3cmz/GRADE](https://github.com/li3cmz/GRADE/tree/main/evaluation)|
 |[`convai2_annotation.json`](./datasets/convai2_annotation.json)|Convai2|150|[li3cmz/GRADE](https://github.com/li3cmz/GRADE/tree/main/evaluation)|
