@@ -1,6 +1,9 @@
 # Assessing Dialogue Systems with Distribution Distances
 
- [[arXiv]](https://arxiv.org/pdf/2105.02573.pdf)[[code]](https://github.com/yhlleo/frechet-bert-distance)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)]((https://github.com/yhlleo/frechet-bert-distance/graphs/commit-activity))
+![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+
+[[arXiv]](https://arxiv.org/pdf/2105.02573.pdf)[[code]](https://github.com/yhlleo/frechet-bert-distance)
 
 > We propose to measure the performance of a dialogue system by computing the distributionwise distance between its generated conversations and real-world conversations.
  
@@ -27,6 +30,8 @@ python eval_metric.py \
   --model_type roberta-base \
   --batch_size 32
 ```
+
+Currently, our repo supports the common metrics used in text generation field, inclduing [`bleu`](https://www.aclweb.org/anthology/P02-1040.pdf), [`meteor`](https://www.aclweb.org/anthology/W14-3348/), [`rouge`](https://www.aclweb.org/anthology/W04-1013/), [`greedy`](https://www.aclweb.org/anthology/W12-2018/), [`average`](https://arxiv.org/pdf/1511.08198.pdf), [`extrema`](http://www-cgi.cs.cmu.edu/~apparikh/nips2014ml-nlp/camera-ready/forgues_etal_mlnlp2014.pdf), [`bert_score`](https://arxiv.org/pdf/1904.09675.pdf), [`fbd`](https://arxiv.org/pdf/2105.02573.pdf) and [`prd`](https://arxiv.org/pdf/2105.02573.pdf).
 
 Here are some details of the six corpura compared in the main paper:
 
