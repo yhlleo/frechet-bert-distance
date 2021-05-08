@@ -6,7 +6,7 @@
  
 To appear in Findings of [ACL 2021](https://2021.aclweb.org/). 
 
-**UNote that this is not an officially supported Tencent product.**
+**Note that this is not an officially supported Tencent product.**
  
 ## 1. Configuratin 
 
