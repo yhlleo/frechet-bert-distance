@@ -41,7 +41,7 @@ Here are some details of the six corpura compared in the main paper:
 
 
 ## Citation
-If you use this research/codebase/dataset, please cite our paper.
+If you use this research/codebase/dataset, please cite our paper:
 ```
 @article{xiang2021assessing,
   title={Assessing Dialogue Systems with Distribution Distances},
