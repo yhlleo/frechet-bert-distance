@@ -1,6 +1,6 @@
 # Assessing Dialogue Systems with Distribution Distances
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)]((https://github.com/yhlleo/frechet-bert-distance/graphs/commit-activity))
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]((https://github.com/yhlleo/frechet-bert-distance/graphs/commit-activity))
 ![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 [[arXiv]](https://arxiv.org/pdf/2105.02573.pdf)[[code]](https://github.com/yhlleo/frechet-bert-distance)
