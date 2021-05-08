@@ -17,7 +17,7 @@ This repository requires the packages:
 
 ## 2. Usage
 
-To evaluate the system-level human correlations of metrics, use:
+To evaluate the system-level human correlations of metrics:
 
 ```
 python eval_metric.py \
